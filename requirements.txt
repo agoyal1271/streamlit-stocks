@@ -1,5 +1,5 @@
 # Core web framework
-streamlit>=1.28.0
+
 
 # Data manipulation and analysis
 pandas>=1.5.0
